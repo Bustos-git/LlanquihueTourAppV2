@@ -1,0 +1,7 @@
+Isla Huar;Calbuco;1200;Ruta Gastronomica;1 dia
+Parque Tagua Tagua;Cochamó;2700,Paseo Lacustre;1 dias
+Playa Los Cisnes;Llanquihue;1500;Paseo Lacustre;1 dia
+Río Maullín;Llanquihue;1800;Personalizado;2 dias
+Volcán Osorno;Llanquihue;2500;Excursion Cultural;1 dia
+Lago Llanquihue;Llanquihue;2300;Excursion Cultural;2 dias
+
